@@ -1,7 +1,7 @@
 # Contributor License Agreement
 
 If you contribute to one of the following projects, you may need to sign a CLA:
-- [revoltchat/backend](https://gitub.com/revoltchat/backend)
+- [revoltchat/backend](https://github.com/revoltchat/backend)
 
 You can view the [individual CLA here](CLA.md).
 
