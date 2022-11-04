@@ -2,6 +2,7 @@
 
 If you contribute to one of the following projects, you may need to sign a CLA:
 - [revoltchat/backend](https://github.com/revoltchat/backend)
+- [revoltchat/revoltchat-solid-client-monorepo](https://github.com/revoltchat/revoltchat-solid-client-monorepo)
 
 You can view the [individual CLA here](CLA.md).
 
