@@ -1,40 +1,30 @@
 # Contributor License Agreement
 
-If you contribute to one of the following projects, you may need to sign a CLA:
+When contributing to the following projects:
+
 - [revoltchat/backend](https://github.com/revoltchat/backend)
-- [revoltchat/revoltchat-solid-client-monorepo](https://github.com/revoltchat/revoltchat-solid-client-monorepo)
+- [revoltchat/frontend](https://github.com/revoltchat/frontend)
 
-You can view the [individual CLA here](CLA.md).
+You may need to sign a Contributor License Agreement (CLA). You can access the [individual CLA document here](CLA.md).
 
-## How to sign
+## How to Sign
 
-Once you create a pull request and have not previously signed:
-- A bot (["CLA Assistant Lite"](https://github.com/contributor-assistant/github-action)) will reply to you asking for you to confirm that you've read and agree to the CLA.
-- You reply to the bot with your confirmation.
-- Your PR can be accepted.
+If you're contributing for the first time and haven't already signed the CLA then the process is as follows:
+
+1. After creating a pull request, a bot ([CLA Assistant Lite](https://github.com/contributor-assistant/github-action)) will prompt you to confirm and agree to the CLA.
+2. If you agree to the CLA, then you can respond to the bot and confirm your agreement.
+3. Your pull request can then be accepted.
 
 You only need to sign the CLA once to be able to contribute to any Revolt project.
 
-## Why?
+## Purpose
 
-Having a CLA in place allows us to:
-- Ensure all contributions are licensed under the project's respective license.
-- Be able to enforce any given project's license.
-- Keep the door open to provide commercial offerings in the future, i.e. use of Revolt in corporate environments.
-- (may be required to) implement tailored anti-spam solutions for the main platform, i.e. custom captcha software.
+Implementing a CLA allows Revolt to:
+- Ensure that all contributions are licensed appropriately under the project's license.
+- Enforce the project's license when necessary.
+- Keep options open for potential relicencing in future.
+- Potentially implement customized anti-spam solutions for the main platform if required.
 
-## Summary
+## Feedback Welcome
 
-By the use of [Contributor Agreements](https://contributoragreements.org/), we generate a CLA which:
-- Is a custom CLA
-- Is bound to the Revolt project
-- Provides rights to [@insertish](https://github.com/insertish) (we do not have a legal entity yet)
-- Is an exclusive license †
-- Has no commitment to any specific outbound license
-- Uses a "Traditional Patent License" †
-
-† These were chosen as defaults, if you have a proposal to change this please get in touch.
-
-## Feedback appreciated
-
-If you have any complaints, suggestions or anything else you'd like to discuss about this, please get in touch so we can help improve the process / project. You can either open an issue on this repository or email contact@revolt.chat.
+If you have any feedback, suggestions, or concerns about this process or the project, please don't hesitate to contact us. You can either open an issue on this repository or email us at contact@revolt.chat.
