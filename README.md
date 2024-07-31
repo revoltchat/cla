@@ -7,6 +7,9 @@ When contributing to the following projects:
 
 You may need to sign a Contributor License Agreement (CLA). You can access the [individual CLA document here](CLA.md).
 
+> [!IMPORTANT]
+> The CLA is no longer a hard requirement for contributing to the aforementioned projects, a Fiduciary License Agreement may be introduced in the future which will also be opt-in.
+
 ## How to Sign
 
 If you're contributing for the first time and haven't already signed the CLA then the process is as follows:
